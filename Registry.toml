@@ -1,0 +1,6 @@
+name = "DemoRegistry"
+uuid = "38554413-cad5-48ff-91a6-962730053b56"
+repo = "git@github.com:GunnarFarneback/DemoRegistry.git"
+description = "Demo registry for LocalRegistry tutorial."
+
+[packages]
